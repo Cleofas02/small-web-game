@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    line-height: 6rem;
+    font-family: sans-serif;
+    background-color: green;
+    background-image: url("/img/table.png");
+    background-size: cover;
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 4rem;
+}
+
+p{
+    color: white;
+    font-size: 2rem;
+
+}
+
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    width: 30rem;
+    border: none;
+    padding: 1.5rem;
+    font-weight:  bold;
+    font-size: 2rem;
+    border-radius: 10px;
+    margin: 0 1rem 0 1rem;
+}
+
